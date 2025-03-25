@@ -3,6 +3,8 @@ nginx
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 dokploy/dokploy:latest
+dokploy-postgres
+dokploy-redis
 traefik:v3.1.2
 redis:7
 postgres:16
