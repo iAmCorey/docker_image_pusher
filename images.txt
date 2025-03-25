@@ -2,5 +2,9 @@ nginx
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
+dokploy/dokploy:latest
+traefik:v3.1.2
+redis:7
+postgres:16
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
