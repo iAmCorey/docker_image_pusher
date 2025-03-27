@@ -6,5 +6,6 @@ dokploy/dokploy:latest
 traefik:v3.1.2
 redis:7
 postgres:16
+ghcr.io/iamcorey/qihang-pro:main
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
